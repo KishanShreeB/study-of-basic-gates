@@ -81,7 +81,8 @@ endmodule
 ```
 
 
- Developed by: RegisterNumber: 
+ Developed by:KISHAN SHREE B
+ RegisterNumber: 212223100022
  
 **Logic symbol & Truthtable**
 ![Uploading image.png…]()
