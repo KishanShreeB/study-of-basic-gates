@@ -85,16 +85,19 @@ endmodule
  RegisterNumber: 212223100022
  
 **Logic symbol & Truthtable**
-![Uploading image.png…]()
+![image](https://github.com/KishanShreeB/study-of-basic-gates/assets/144870434/b73e4190-1b50-48d3-9c37-e50f489b639c)
+
 
 
 **RTL realization Output:** 
-![Uploading image.png…]()
+![image](https://github.com/KishanShreeB/study-of-basic-gates/assets/144870434/6fa40e08-f18b-4cc2-a1d4-d20c1538dadb)
+
 
 
 
 **RTL**
-![Uploading image.png…]()
+![image](https://github.com/KishanShreeB/study-of-basic-gates/assets/144870434/26390718-6a94-48f9-9196-6e5b4e954a91)
+
 
 
 **Result:**
