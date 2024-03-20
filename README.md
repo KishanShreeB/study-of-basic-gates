@@ -84,9 +84,12 @@ endmodule
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![Uploading image.png…]()
+
 
 **RTL realization Output:** 
 ![Uploading image.png…]()
+
 
 
 **RTL**
